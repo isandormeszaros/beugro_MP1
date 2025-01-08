@@ -1,0 +1,15 @@
+/Users/Sandor/Downloads/beugro/beugro/bin/Debug/net7.0/beugro
+/Users/Sandor/Downloads/beugro/beugro/bin/Debug/net7.0/beugro.deps.json
+/Users/Sandor/Downloads/beugro/beugro/bin/Debug/net7.0/beugro.runtimeconfig.json
+/Users/Sandor/Downloads/beugro/beugro/bin/Debug/net7.0/beugro.dll
+/Users/Sandor/Downloads/beugro/beugro/bin/Debug/net7.0/beugro.pdb
+/Users/Sandor/Downloads/beugro/beugro/obj/Debug/net7.0/beugro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sandor/Downloads/beugro/beugro/obj/Debug/net7.0/beugro.AssemblyInfoInputs.cache
+/Users/Sandor/Downloads/beugro/beugro/obj/Debug/net7.0/beugro.AssemblyInfo.cs
+/Users/Sandor/Downloads/beugro/beugro/obj/Debug/net7.0/beugro.csproj.CoreCompileInputs.cache
+/Users/Sandor/Downloads/beugro/beugro/obj/Debug/net7.0/beugro.sourcelink.json
+/Users/Sandor/Downloads/beugro/beugro/obj/Debug/net7.0/beugro.dll
+/Users/Sandor/Downloads/beugro/beugro/obj/Debug/net7.0/refint/beugro.dll
+/Users/Sandor/Downloads/beugro/beugro/obj/Debug/net7.0/beugro.pdb
+/Users/Sandor/Downloads/beugro/beugro/obj/Debug/net7.0/beugro.genruntimeconfig.cache
+/Users/Sandor/Downloads/beugro/beugro/obj/Debug/net7.0/ref/beugro.dll

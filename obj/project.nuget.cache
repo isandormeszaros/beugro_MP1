@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NXfMvjb8K2M=",
+  "success": true,
+  "projectFilePath": "/Users/Sandor/Downloads/beugro/beugro/beugro.csproj",
+  "expectedPackageFiles": [
+    "/Users/Sandor/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/Sandor/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/Sandor/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
